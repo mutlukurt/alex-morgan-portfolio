@@ -86,6 +86,11 @@ span.highlight,
 }
 
 .name .highlight {
+    color: #6c5ce7;
+    font-weight: 600;
+}
+
+.name .highlight {
     color: #6c5ce7 !important;
     font-weight: 600 !important;
 }
@@ -352,6 +357,11 @@ span.highlight,
 .section-title {
     font-size: 32px;
     font-weight: 300;
+}
+
+.section-title .highlight {
+    color: #00b894;
+    font-weight: 600;
 }
 
 .section-title .highlight {

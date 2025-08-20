@@ -66,6 +66,10 @@ body {
 .highlight {
     color: #6c5ce7 !important;
     font-weight: 600 !important;
+    display: inline !important;
+    background: none !important;
+    border: none !important;
+    text-decoration: none !important;
 }
 
 .name {

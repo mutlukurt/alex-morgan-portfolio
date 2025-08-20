@@ -62,14 +62,20 @@ body {
     fill: currentColor;
 }
 
-/* General highlight class */
-.highlight {
+/* General highlight class - Ultra specific */
+.highlight,
+span.highlight,
+.highlight span,
+* .highlight,
+* span.highlight {
     color: #6c5ce7 !important;
     font-weight: 600 !important;
     display: inline !important;
     background: none !important;
     border: none !important;
     text-decoration: none !important;
+    font-size: inherit !important;
+    line-height: inherit !important;
 }
 
 .name {

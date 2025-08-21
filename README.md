@@ -1,65 +1,65 @@
 # Alex Morgan - UX/UI Designer Portfolio
 
-Modern ve responsive bir UX/UI tasarımcı portföy web sitesi. Bu proje, Alex Morgan'ın profesyonel deneyimini, becerilerini ve hizmetlerini sergileyen şık bir portföy sitesidir.
+A modern and responsive UX/UI designer portfolio website. This project showcases Alex Morgan's professional experience, skills, and services in an elegant portfolio site.
 
-## 🚀 Özellikler
+## 🚀 Features
 
-- **Modern Tasarım**: Temiz ve profesyonel görünüm
-- **Responsive Layout**: Tüm cihazlarda mükemmel görünüm
-- **Animasyonlar**: CSS ve JavaScript ile zengin animasyonlar
-- **SVG İkonlar**: Vektörel ikonlar ile net görünüm
-- **Hover Efektleri**: Etkileşimli kullanıcı deneyimi
-- **Mobil Uyumlu**: Mobil cihazlarda optimize edilmiş tasarım
+- **Modern Design**: Clean and professional appearance
+- **Responsive Layout**: Perfect display on all devices
+- **Animations**: Rich animations with CSS and JavaScript
+- **SVG Icons**: Vector icons for crisp display
+- **Hover Effects**: Interactive user experience
+- **Mobile Optimized**: Optimized design for mobile devices
 
-## 🎨 Tasarım Özellikleri
+## 🎨 Design Features
 
-- **Renk Paleti**: Modern mor ve yeşil tonları
-- **Tipografi**: Segoe UI font ailesi
-- **Gradyanlar**: Yumuşak geçişli arka planlar
-- **Gölgeler**: Derinlik hissi veren gölge efektleri
-- **Border Radius**: Yuvarlatılmış köşeler ile modern görünüm
+- **Color Palette**: Modern purple and green tones
+- **Typography**: Segoe UI font family
+- **Gradients**: Smooth gradient backgrounds
+- **Shadows**: Depth-creating shadow effects
+- **Border Radius**: Modern appearance with rounded corners
 
-## 📱 Bölümler
+## 📱 Sections
 
-1. **Header**: Profil bilgileri ve ana mesaj
-2. **Skills**: Beceri etiketleri
-3. **Services**: Sunulan hizmetler
-4. **About**: Deneyim ve istatistikler
-5. **Education & Work**: Eğitim ve iş deneyimi
+1. **Header**: Profile information and main message
+2. **Skills**: Skill tags
+3. **Services**: Offered services
+4. **About**: Experience and statistics
+5. **Education & Work**: Education and work experience
 
-## 🛠️ Teknolojiler
+## 🛠️ Technologies
 
-- **HTML5**: Semantik markup
-- **CSS3**: Modern CSS özellikleri ve animasyonlar
-- **JavaScript (ES6+)**: Etkileşimli özellikler
-- **CSS Grid & Flexbox**: Modern layout sistemleri
-- **CSS Animations**: Keyframe animasyonları
-- **Intersection Observer API**: Scroll tabanlı animasyonlar
+- **HTML5**: Semantic markup
+- **CSS3**: Modern CSS features and animations
+- **JavaScript (ES6+)**: Interactive features
+- **CSS Grid & Flexbox**: Modern layout systems
+- **CSS Animations**: Keyframe animations
+- **Intersection Observer API**: Scroll-based animations
 
-## 📁 Proje Yapısı
+## 📁 Project Structure
 
 ```
 alex-morgan-portfolio/
-├── index.html          # Ana HTML dosyası
+├── index.html          # Main HTML file
 ├── css/
-│   └── style.css      # Ana stil dosyası
+│   └── style.css      # Main stylesheet
 ├── js/
-│   └── main.js        # JavaScript fonksiyonları
-├── assets/             # Görseller ve varlıklar
-└── README.md          # Proje dokümantasyonu
+│   └── main.js        # JavaScript functions
+├── assets/             # Images and assets
+└── README.md          # Project documentation
 ```
 
-## 🚀 Kurulum
+## 🚀 Installation
 
-1. Projeyi klonlayın:
+1. Clone the project:
 ```bash
 git clone [repository-url]
 cd alex-morgan-portfolio
 ```
 
-2. `index.html` dosyasını bir web tarayıcısında açın
+2. Open `index.html` in a web browser
 
-3. Veya yerel bir sunucu başlatın:
+3. Or start a local server:
 ```bash
 # Python 3
 python -m http.server 8000
@@ -71,24 +71,24 @@ npx serve .
 php -S localhost:8000
 ```
 
-## 🎯 Kullanım
+## 🎯 Usage
 
-- **Portfolio Butonu**: Portföy bölümüne yönlendirir
-- **Hire Me Butonu**: İletişim formunu açar
-- **Download CV**: CV indirme işlemini başlatır
-- **Learn More**: Hizmet detaylarını gösterir
-- **View All Services**: Tüm hizmetleri listeler
+- **Portfolio Button**: Redirects to portfolio section
+- **Hire Me Button**: Opens contact form
+- **Download CV**: Initiates CV download
+- **Learn More**: Shows service details
+- **View All Services**: Lists all services
 
-## 📱 Responsive Tasarım
+## 📱 Responsive Design
 
-- **Desktop**: 1200px ve üzeri
+- **Desktop**: 1200px and above
 - **Tablet**: 768px - 1199px
-- **Mobile**: 767px ve altı
+- **Mobile**: 767px and below
 
-## 🎨 Özelleştirme
+## 🎨 Customization
 
-### Renkleri Değiştirme
-CSS dosyasındaki CSS değişkenlerini düzenleyin:
+### Changing Colors
+Edit CSS variables in the CSS file:
 
 ```css
 :root {
@@ -99,35 +99,35 @@ CSS dosyasındaki CSS değişkenlerini düzenleyin:
 }
 ```
 
-### İçerik Güncelleme
-`index.html` dosyasındaki metinleri ve bilgileri güncelleyin.
+### Updating Content
+Update texts and information in the `index.html` file.
 
-### Yeni Bölüm Ekleme
-HTML'e yeni bölüm ekleyin ve CSS'te stil tanımlayın.
+### Adding New Sections
+Add new sections to HTML and define styles in CSS.
 
-## 🔧 Geliştirme
+## 🔧 Development
 
-### CSS Özellikleri
-- CSS Grid ve Flexbox layout
+### CSS Features
+- CSS Grid and Flexbox layouts
 - CSS Custom Properties (variables)
-- CSS Animations ve Transitions
-- Media Queries ile responsive tasarım
+- CSS Animations and Transitions
+- Responsive design with Media Queries
 
-### JavaScript Özellikleri
+### JavaScript Features
 - Event Listeners
 - Intersection Observer API
 - DOM Manipulation
 - Smooth Scrolling
 - Animation Controllers
 
-## 📊 Performans
+## 📊 Performance
 
 - **Lighthouse Score**: 90+ (Performance, Accessibility, Best Practices)
-- **Optimized Images**: SVG ikonlar ile hızlı yükleme
-- **Minimal Dependencies**: Sadece vanilla JavaScript
-- **CSS Optimization**: Efficient selectors ve minimal CSS
+- **Optimized Images**: Fast loading with SVG icons
+- **Minimal Dependencies**: Vanilla JavaScript only
+- **CSS Optimization**: Efficient selectors and minimal CSS
 
-## 🌟 Gelecek Özellikler
+## 🌟 Future Features
 
 - [ ] Dark Mode toggle
 - [ ] Portfolio gallery
@@ -136,23 +136,23 @@ HTML'e yeni bölüm ekleyin ve CSS'te stil tanımlayın.
 - [ ] Multi-language support
 - [ ] PWA capabilities
 
-## 📝 Lisans
+## 📝 License
 
-Bu proje MIT lisansı altında lisanslanmıştır.
+This project is licensed under the MIT License.
 
-## 👨‍💻 Geliştirici
+## 👨‍💻 Developer
 
 Alex Morgan - UX/UI Designer
 
-## 🤝 Katkıda Bulunma
+## 🤝 Contributing
 
-1. Fork yapın
-2. Feature branch oluşturun (`git checkout -b feature/AmazingFeature`)
-3. Commit yapın (`git commit -m 'Add some AmazingFeature'`)
-4. Push yapın (`git push origin feature/AmazingFeature`)
-5. Pull Request açın
+1. Fork the project
+2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-## 📞 İletişim
+## 📞 Contact
 
 - **Email**: alex@example.com
 - **LinkedIn**: [Alex Morgan](https://linkedin.com/in/alexmorgan)
@@ -160,4 +160,4 @@ Alex Morgan - UX/UI Designer
 
 ---
 
-⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!
+⭐ Don't forget to give a star if you liked this project!

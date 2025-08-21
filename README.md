@@ -1,5 +1,7 @@
 # Alex Morgan - UX/UI Designer Portfolio
 
+🌐 **Live Demo**: [https://mutlukurt.github.io/alex-morgan-portfolio/](https://mutlukurt.github.io/alex-morgan-portfolio/)
+
 A modern and responsive UX/UI designer portfolio website. This project showcases Alex Morgan's professional experience, skills, and services in an elegant portfolio site.
 
 ## 🚀 Features
